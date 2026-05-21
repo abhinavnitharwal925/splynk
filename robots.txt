@@ -1,0 +1,18 @@
+# Splynk — robots.txt
+# Allow all well-behaved crawlers full access.
+
+User-agent: *
+Allow: /
+Disallow: /assets/screens/
+
+# Common AI crawlers — explicit allow for indexing.
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://abhinavnitharwal925.github.io/splynk/sitemap.xml

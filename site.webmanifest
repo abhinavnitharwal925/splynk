@@ -1,0 +1,18 @@
+{
+  "name": "Splynk — Get Active, Meet People, Stay Connected",
+  "short_name": "Splynk",
+  "description": "Discover nearby activities, join pickup games, fitness classes, clubs and leagues, meet active people, and stay connected through chats and posts.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F3EC",
+  "theme_color": "#F6F3EC",
+  "lang": "en-US",
+  "categories": ["sports", "fitness", "social", "lifestyle"],
+  "icons": [
+    { "src": "assets/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any" },
+    { "src": "assets/icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any" },
+    { "src": "assets/apple-touch-icon.png", "type": "image/png", "sizes": "180x180", "purpose": "any" }
+  ]
+}
